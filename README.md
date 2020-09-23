@@ -1,1 +1,1 @@
-# vr-continuous-improvement
+# Visual Recognition Continuous Improvement Framework

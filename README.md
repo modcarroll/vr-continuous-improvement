@@ -1,3 +1,3 @@
 # Visual Recognition Continuous Improvement Framework
 
-Directions WIP: published from Watson Studio.
+DEPRECATED - will update in the future
